@@ -15,11 +15,15 @@
                     @endif
 
 <<<<<<< HEAD
+<<<<<<< HEAD
                     {{ __('You are logged in!') }}
                     {{Auth::user()->name}}
 =======
                     {{ __('You are logged in!') ." ".Auth::user()->name }}
 >>>>>>> origin/gerald-orzal
+=======
+                    {{ __('Hello!') ." ".Auth::user()->name }}
+>>>>>>> main
                 </div>
             </div>
         </div>
