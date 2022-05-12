@@ -5,7 +5,11 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
+<<<<<<< HEAD
                 <div class="card-header">{{ __('Register') }}</div>
+=======
+                <div class="card-header">{{ __('REGISTER') }}</div>
+>>>>>>> origin/gerald-orzal
 
                 <div class="card-body">
                     <form method="POST" action="{{ route('register') }}">
@@ -63,8 +67,13 @@
 
                         <div class="row mb-0">
                             <div class="col-md-6 offset-md-4">
+<<<<<<< HEAD
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Register') }}
+=======
+                                <button type="submit" class="btn btn-primary fw-bold" style="color:white;">
+                                    {{ __('SIGN UP') }}
+>>>>>>> origin/gerald-orzal
                                 </button>
                             </div>
                         </div>
