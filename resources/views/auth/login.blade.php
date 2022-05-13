@@ -23,7 +23,7 @@
 
             <div class="row">
                 <div class="col">
-                    <p class="lead">It's not the we use technology, <br> we live technology.</p>
+                    <p class="lead">It's not that we use technology, <br> we live technology.</p>
                 </div>
             </div>
         </div>
