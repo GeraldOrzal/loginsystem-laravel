@@ -30,10 +30,6 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> main
   --bs-primary: #0d6efd;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
@@ -50,32 +46,26 @@
   --bs-danger-rgb: 220, 53, 69;
   --bs-light-rgb: 248, 249, 250;
   --bs-dark-rgb: 33, 37, 41;
-<<<<<<< HEAD
-=======
   --bs-primary: red;
   --bs-secondary: black;
   --bs-primary-rgb: 255, 0, 0;
-  --bs-secondary-rgb: 0, 0, 0;
->>>>>>> origin/gerald-orzal
-=======
->>>>>>> main
+/* origin/gerald-orzal */
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 245, 245, 245;
   --bs-font-sans-serif: "Inter", sans-serif;
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --bs-font-monospace: 'SFMono-Regular', 'Menlo', 'Monaco, Consolas', "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
   --bs-body-font-size: 0.9rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.6;
   --bs-body-color: #212529;
-<<<<<<< HEAD
   --bs-body-bg: #f8fafc;
-=======
+
   --bs-body-bg: #F5F5F5;
->>>>>>> origin/origin/jacob-branch
+origin/origin/jacob-branch
 }
 
 *,
